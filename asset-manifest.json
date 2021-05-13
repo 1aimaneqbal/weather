@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/weather/static/css/main.94bad23f.chunk.css",
-    "main.js": "/weather/static/js/main.2b0f272f.chunk.js",
-    "main.js.map": "/weather/static/js/main.2b0f272f.chunk.js.map",
+    "main.css": "/weather/static/css/main.5c9ba521.chunk.css",
+    "main.js": "/weather/static/js/main.879642ca.chunk.js",
+    "main.js.map": "/weather/static/js/main.879642ca.chunk.js.map",
     "runtime-main.js": "/weather/static/js/runtime-main.87a435bb.js",
     "runtime-main.js.map": "/weather/static/js/runtime-main.87a435bb.js.map",
     "static/js/2.14ac3961.chunk.js": "/weather/static/js/2.14ac3961.chunk.js",
@@ -10,19 +10,24 @@
     "static/js/3.a078d817.chunk.js": "/weather/static/js/3.a078d817.chunk.js",
     "static/js/3.a078d817.chunk.js.map": "/weather/static/js/3.a078d817.chunk.js.map",
     "index.html": "/weather/index.html",
-    "static/css/main.94bad23f.chunk.css.map": "/weather/static/css/main.94bad23f.chunk.css.map",
+    "static/css/main.5c9ba521.chunk.css.map": "/weather/static/css/main.5c9ba521.chunk.css.map",
     "static/js/2.14ac3961.chunk.js.LICENSE.txt": "/weather/static/js/2.14ac3961.chunk.js.LICENSE.txt",
-    "static/media/Clear.601b0edb.png": "/weather/static/media/Clear.601b0edb.png",
-    "static/media/ClearCloudy.a7dea0dd.png": "/weather/static/media/ClearCloudy.a7dea0dd.png",
+    "static/media/Clear.0cf5915b.png": "/weather/static/media/Clear.0cf5915b.png",
+    "static/media/ClearCloudy.5a64f10c.png": "/weather/static/media/ClearCloudy.5a64f10c.png",
     "static/media/DuskDawn.49b25145.png": "/weather/static/media/DuskDawn.49b25145.png",
     "static/media/DuskDawnCloudy.15146a2a.png": "/weather/static/media/DuskDawnCloudy.15146a2a.png",
-    "static/media/Sunny.973b943e.png": "/weather/static/media/Sunny.973b943e.png",
-    "static/media/SunnyCloudy.1d2c0173.png": "/weather/static/media/SunnyCloudy.1d2c0173.png"
+    "static/media/HeavyRain.ff4975d4.png": "/weather/static/media/HeavyRain.ff4975d4.png",
+    "static/media/LightRain.0e173906.png": "/weather/static/media/LightRain.0e173906.png",
+    "static/media/MistFog.70c4c1ac.png": "/weather/static/media/MistFog.70c4c1ac.png",
+    "static/media/Scorcher.f279abc5.png": "/weather/static/media/Scorcher.f279abc5.png",
+    "static/media/Snow.308f5748.png": "/weather/static/media/Snow.308f5748.png",
+    "static/media/Sunny.4fcfa610.png": "/weather/static/media/Sunny.4fcfa610.png",
+    "static/media/SunnyCloudy.4080ccb3.png": "/weather/static/media/SunnyCloudy.4080ccb3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.87a435bb.js",
     "static/js/2.14ac3961.chunk.js",
-    "static/css/main.94bad23f.chunk.css",
-    "static/js/main.2b0f272f.chunk.js"
+    "static/css/main.5c9ba521.chunk.css",
+    "static/js/main.879642ca.chunk.js"
   ]
 }
